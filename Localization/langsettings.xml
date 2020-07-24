@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<langs>
+  <lang id="1" full="English" 	stname="english" 	short="EN" 	dir="English" 	codepage="65001"/>
+  <lang id="2" full="Русский" 	stname="russian" 	short="RU" 	dir="Russian" 	codepage="1251"/>
+  <lang id="3" full="Deutsch" 	stname="german" 	short="DE" 	dir="Deutsch" 	codepage="24720"/>
+</langs>

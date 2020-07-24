@@ -1,0 +1,1460 @@
+﻿[INTERFACE]
+
+act_inf5=RODPOD
+act_inf5e=[E] Entfernen
+
+---------------------
+craftwp_btn=Handwerkstisch
+dntpck_3_name=Paket "Bee Picker"
+dntpck_3_info=Das Kit enthält eine Leichte Picker (6 kg Feeder Rig, + 50% Erfahrungsgewinn), eine Feederrolle und eine Schnur. Ein ungeöffnetes Set kann an einen Freund geschickt werden.
+wpn_ibsize_4=Gr. ultra (Haken Nr.3-5)
+---------------------
+
+trof_give=TROPHÄEN GEFANGEN
+trof_mtype_0=HOLZ
+trof_mtype_1=KUPFER
+trof_mtype_2=BRONZE
+trof_mtype_3=SILBER
+trof_mtype_4=GOLD
+
+trof_capt_1=TROPHÄEN AUS WETTBEWERBEN
+trof_capt_100=TURNIER TROPHÄEN
+trof_capt_200=TROPHÄEN AUS GEWÄSSERN
+trof_capt_300=TROPHÄEN VON FISCHARTEN
+
+stat_capt_luck=Glücksfisch
+stat_capt_love=Lieblingsfisch
+untrof_count=Trophäen {0} Stk
+
+-------------------
+
+stat_finfo1=Insgesamt {0} Stk
+stat_finfo2=Größter {0}
+
+unv_count={0} Stk
+stat_uinf_0=Online-Zeit: {0}
+stat_turn_crt=TURNIER ERSTELLEN
+stat_capt_1=Aufgaben erledigt
+stat_capt_2=Anzahl der Fische
+stat_capt_3=Anzahl der Trophäen
+stat_capt_4=Anzahl der Rekordfische
+
+stat_capt_5=Gefangene Fischarten
+stat_capt_6=Freigelassene Fische
+stat_capt_7=Geschonte Fische
+
+stat_capt_8=POSENRUTE
+stat_capt_9=SPINNRUTE
+stat_capt_10=GRUNDRUTE
+stat_capt_11=FLIEGENRUTE
+
+stat_capt_big=Größter Fisch
+stat_capt_dat=* Die Zählung startet ab 15.07.20
+
+gi_um_12=PROFIL
+-------------------
+clubInfo_1=Clublevel: {0}
+clubInfo_2=Mitglieder: {0} / {1}
+clubInfo_3=Clubbewertung: {0}
+
+capt_trof1=Trophäen und Erfolge
+-------------------
+
+act_inf4e=[E] Öffnen
+dntpck_135_act=+ 7 Tage VIP als Geschenk
+-------------------
+
+fly_mtype0=Trockenfliege
+fly_mtype1=Nassfliege
+
+-------------------
+
+findplayer=SUCHE SPIELER
+turn_publicname=ALLGEMEINE TURNIERE
+turn_customname=PRIVATE TURNIERE
+post_msg8={0} schenkt dir {1} х{2}
+cntx_gift=GESCHENK
+
+-------------------
+
+turn_uslp1=Boot VERBOTEN
+turn_uslp2=Eine Angelrute (im 1.Slot)
+turn_uslp3=Rutenart: {0}
+
+turn_uslrt_0=IRGENDEINE
+turn_uslrt_90=STIPPRUTE
+turn_uslrt_100=MATCHRUTE
+turn_uslrt_101=GRUNDRUTE
+turn_uslrt_102=SPINNRUTE
+turn_uslrt_103=FLIEGENRUTE
+turn_uslrt_104=CASTINGRUTE
+turn_uslrt_105=ULTRALIGHTRUTE
+
+turn_uslpyes=JA
+turn_uslpno=NEIN
+turn_uslp_allow=ERLAUBT
+turn_uslp_deny=VERBOTEN
+
+-------------------
+
+club_err5=Club Gründer Abzeichen, das für die Bearbeitung benötigt wird
+club_editname=Bearbeiten
+
+-------------------
+
+in_dev=In Entwicklung
+act_inf4=FISCH EINFRIEREN
+gi_um_gqw=Angenommene Aufgaben
+boat_inf6=[U] AUF'S DECK GEHEN
+boat_inf7=[R] Fisch verkaufen
+boat_inf8=Motor an/aus [J]\nAnker rauf/runter [K]
+
+-------------------
+
+club_levup=Club auf Stufe {0} aktualisiert
+club_expadd=Club hat {0} Erfahrung gesammelt
+qd_clname=Club
+
+dntpck_130_name=Gründerpaket
+dntpck_130_info=Enthält das "Club Gründer Abzeichen", mit dem Sie Ihren eigenen Angelclub gründen können
+dntpck_130_act=+ 15 Tage VIP als Geschenk
+
+
+club_userout={0} hat das Spiel verlassen
+club_userin={0} hat das Spiel betreten
+key_openclub=Club Übersicht
+club_invmsg4=Spieler {0} hat die Einladung angenommen
+club_invmsg3=Du bist dem Club beigetreten!
+club_invmsg2=Spieler {0} \ n lädt Sie ein, dem Club beizutreten\n {1}
+club_invmsg=Einladung in den Club erhalten {0}
+club_ech1=Spieler nicht gefunden!
+club_ech4=Der Spieler ist bereits im Club!
+club_ech3=Es gibt keine freien Plätze im Club!
+club_invok=Einladung gesendet
+club_invitation=Spieler in Club einladen
+club_out=Den Club wirklich verlassen \n{0}?
+club_btn1=Club verlassen
+club_inf1=Clubgründung
+club_inf2=Clubname (3-20 Zeichen)
+club_inf3=Club-Label (2-4 Zeichen)
+club_inf4=ERSTELLEN
+club_err1=Es sind nur Buchstaben, Zahlen und Leerzeichen zulässig
+club_err2=Der Clubname ist falsch
+club_err3=Club-Kürzel ist falsch
+club_err4=Name oder Label existieren bereits
+
+btn_qtaskvip=Andere Orte
+dntpck_2_name=Paket "SeaCast"
+dntpck_2_info=Dieses Kit enthält eine schwere Castingrute (52 kg), eine Multirolle (50 kg), Angelschnur (51 kg) und 500 Silber. Ungeöffnet kann es an einen Freund verschickt werden.
+
+dntpck_1_hint=* Der Preis für Deine Region kann abweichen.
+dntpck_1_name=Paket "BeeCast"
+dntpck_1_info=Das Kit enthält eine leichte Castingrute (+75% Erf.), eine LP-Rolle, Angelschnur und ein zufälliges Set aus 3 UL Ködern. Ungeöffnet kann es an einen Freund verschickt werden.
+
+
+wptype_offset=Offset Haken
+wptype_jhead=Jigkopf
+
+ny_later=Heute gibt es keine Geschenke mehr. Komme morgen wieder
+ufstat_trof=Trophäe:
+
+chtset_alfa=Hintergrund-Transparenz
+chtset_fsize=Schriftgröße
+chtset_chide=Chat verbergen
+
+cht_bmsg7=Rekord: {0} {1}
+cht_bmsg8=<color='#ffa020'>Du hast den neuen {0}</color>
+cht_bmsg9=<color='#ffa020'>Spieler {0} hat den neuen {1}</color>
+
+gi_um_11=Reisen
+rect_baserec=Rekorde Lokal
+rect_globrec=Rekorde Weltweit
+rect_sortinf=Sortieren nach:
+
+wplevel_0=Level 0: Anfänger
+wplevel_1=Level 1: Lehrling I
+wplevel_2=Level 2: Lehrling II
+wplevel_3=Level 3: Lehrling III
+wplevel_4=Level 4: Gesellen-Anwärter
+wplevel_5=Level 5: Geselle I
+wplevel_6=Level 6: Geselle II
+wplevel_7=Level 7: Geselle III
+wplevel_8=Level 8: Amateur-Anwärter
+wplevel_9=Level 9: Amateur I
+wplevel_10=Level 10: Amateur II
+wplevel_11=Level 11: Amateur III
+wplevel_12=Level 12: Experten-Anwärter
+wplevel_13=Level 13: Experte I
+wplevel_14=Level 14: Experte II
+wplevel_15=Level 15: Experte III
+wplevel_16=Level 16: Profi-Anwärter
+wplevel_17=Level 17: Profi I
+wplevel_18=Level 18: Profi II
+wplevel_19=Level 19: Profi III
+wplevel_20=Level 20: Meister
+wplevel_21=Level 21: ★ Meister
+
+setng_lb1=Schattendistanz
+setng_lb2=Detaildistanz
+setng_lb3=Grasdistanz
+setng_lb4=Gamma
+setng_lb5=Kontrast
+setng_lb6=Schatten
+setng_lb7=Bildskalierung
+setng_lb8=Standard Herstellen
+
+naviinfo1=Koordinaten
+naviinfo2=Distanz
+
+boat_inf6=[U] Aufstehen
+
+set_grouplb=Montagenauslastung
+set_groupp1=Ein Balken für alles
+set_groupp2=Einzelne Balken für Schnur/Rute/Rolle
+
+key_move_frwrd=Vorwärts (W)
+key_move_bckwrd=Rückwärts (S)
+key_move_left=Links (A)
+key_move_right=Rechts (D)
+key_mrun=Rennen (SHIFT Links)
+key_action=Aktion (E)
+key_mrollspd=Schnelles einholen (SHIFT Links)
+key_closerod=Angelrute einpacken (Backspace)
+key_openreel=Rolle öffnen (T)
+key_altroll=Frei für Rolle
+key_altrod=Frei für Angel
+key_ot1=Rutenslot 1 (1)
+key_ot2=Rutenslot 2 (2)
+key_ot3=Rutenslot 3 (3)
+key_zoom=Zoom (Z)
+key_openrod=Angelsetup anschauen (V)
+key_sragula=Angel hinlegen (Y)
+key_feeddrop=Futter auswerfen (O)
+key_redrop=Wurf wiederholen (T)
+key_openbait=Köder ändern (B)
+key_openmap=Karte öffnen (M)
+key_getfish=Fisch mitnehmen (Space)
+key_dropfish=Fisch freilassen (J)
+key_cursoronoff=Cursor ein / aus (ALT Links)
+key_spdpanel=Geschwindigkeitsanzeige (R)
+key_osmart=Smartphone öffnen (Q)
+key_invntr=Inventar öffnen (I)
+key_ftank=Kescher öffnen (C)
+key_slight=Taschenlampe (P)
+
+setbtn_0=Grafik
+setbtn_1=Klänge
+setbtn_2=Steuerelemente
+setbtn_3=Spiel
+
+btn_makeoutinf=Nothilfe für feststeckende Ausrüstung. Wenn Sie Gegenstände verloren haben, können Sie durch Klicken auf diesen Knopf ALLE Ruten zerlegen. Alle Gegenstände der zusammengebauten Ruten landen im Inventar.
+btn_makeout=OK - MACH ES 
+
+btn_ext1=zurück zum Hauptmenü
+btn_ext2=zurück zu Windows
+
+serv_err1=Fisch auf diesem Server nicht aktzeptiert! Ursache:
+
+infcell_roll=Spule
+infcell_line=Schnur
+infcell_hook=Haken
+infcell_float=Pose
+infcell_leash=Vorfach
+infcell_gruz=Gewicht
+infcell_korm=Futterkorb
+infcell_prkorm=Futter
+infcell_bait=Köder
+infcell_blesn=Köder
+infcell_cord=Schnur
+
+
+inf_limit=Server ist voll
+
+
+rd_inf=EARLY ACCESS
+info_help1=F1 für Hilfe
+help_info_keys=[+/-] Posentiefe ändern   [R] aktuelle Posentiefe\n[1-2-3] Angelslot wählen   [V] Rute konfigurieren\n[B] Köder wechseln   [X] Schnurclip   [M] Karte\n[Y] Rute abstellen   [Backspace] Rute einstecken\n[O] Lockstoff werfen   [E] Benutzen / Interaktion\n[T] Wiederauswurf / Schnur geben\n[Z] Zoom   [C] Kescher   [G] Club Menü   [I] Inventar\n[P] Taschenlampe   [Q] Smartphone\n[ENTER] Chatten   [F2,F3,F4] Chats: Info, Lokal, Club\n[SHIFT] Rennen / Schnell einholen\n[W,A,S,D] Bewegen   [ALT] Mauszeiger an/aus\n[ESC] Einstellungen / Menü schliessen\n[J] Bootsmotor an/aus   [K] Anker werfen/heben\n[U] im Boot aufstehen   [CTRL + Maus ziehen] Stapel teilen
+
+
+act_infact=Drücke Е
+act_inf1=Reisen
+act_inf2=Fischhändler
+act_inf3=Händler
+
+
+wpn_remf1=Reparatur {0}\n Kosten {1}?
+sh_pay_vpadd={0} Tage VIP wurden hinzufügt
+sh_pay_overlay=Steam Overlay aktivieren (Shift+Tab)!
+
+sh_pay_vppers=PERSONAL VIP (für mich)
+sh_pay_vpcard=VIP CARDS (zum verschenken)
+
+sh_pay_day_1=1 Tag
+sh_pay_day_3=3 Tage
+sh_pay_day_7=7 Tage
+sh_pay_day_15=15 Tage
+sh_pay_day_30=30 Tage
+
+
+fish_mwgt=Max Gewicht ~{0}
+
+prov_prov_5=Strippen
+prov_prov_6=Mehrfach Strippen
+prov_prov_7=Step-by-Step
+
+wpn_catfly=Spule: {0:0.0} m (wenn 1mm Schnur verwendet wird)
+
+treel_type0=Stationär
+treel_type1=Single Action
+treel_type2=Ultralight
+treel_type3=Multirolle
+
+
+boat_inf4=Motorboot
+boat_inf5=[E] ins Boot setzen
+
+boat_inf3=Geschwindigkeit
+boat_inf2=[E] Boot verlassen
+boat_inf1=Motor An/Aus [J]\nAnker rauf/runter [K]\nGeschwindigkeit [W-S]\nLenkung [A-D]
+
+wpdropinfo=zuerst Angel demontieren
+
+wpn_hook_sz0=winzig
+wpn_hook_sz1=klein
+wpn_hook_sz2=mittel
+wpn_hook_sz3=groß
+wpn_hook_sz4=riesig
+wpn_hook_sz5=ultra
+
+recsts_btn1=NACH NAME
+recsts_btn2=NACH GEWICHT
+recsts_btn3=NACH ORT
+recsts_btn4=NACH ANGLER
+recsts_btn5=nach Anzahl
+recsts_btn6=nach Rekorde
+
+setVol_musc=Musik-Lautstärke
+setVol_envr=Umgebungs-Lautstärke
+setVol_sign=Bissanzeiger-Lautstärke
+setVol_ottr=Angelruten-Lautstärke
+setVol_motr=Motor-Lautstärke
+
+#the Fisher
+#------------------------------------
+
+tf_wpr1=Traglast: {0}kg\nLänge: {1}m
+tf_wpr2=Bremskraft {1}kg\nZugkraft {0}kg
+tf_wpr3=Traglast: {1} kg\nDicke: {0} mm
+tf_wpr4=Anzahl: {0}Stk\nGewicht: {1}
+tf_wpr5=Tiefe {0}m
+
+stm_1=SPIEL STARTEN
+stm_2=Einstellung
+stm_3=Spiel verlassen
+
+tdsad_cnt=Anzahl:
+tdsad_wgt=Gewicht:
+tdsad_sad=Kescher
+tdsad_rod=Angelrute
+tdbtn_salesingl=Einzeln verkaufen
+tdbtn_saleall=Alles verkaufen
+
+
+
+
+
+#------------------------------------
+
+
+showmetr=Fischdistanz
+bs_nodonate=Ticket benötigt
+
+chatconnecthelp=<color='#80ff40'>Attention! This is a help channel for newcomers. Flood, unnecessary topics discussion and profanity are strictly prohibited and will be punished in accordance with the laws of Wasteland!</color>
+fshop_btn3=Verkaufe alles
+
+#Added 21.10.2018
+#------------------------------------
+invn_win1=Recycling
+invn_rec1=Recycling Ergebnis:
+invn_rec2={0} x{1} Stk
+invn_rec3=Abbau
+invn_rec4=Fixing:{0}\nGrundhaltbarkeit verloren: {1}
+invn_rec5=Beim Aufrüsten
+invn_rec6=Upgrade Kosten:
+invn_rec7=Aufrüstglück (+{0}):
+invn_rec8=Verbessern
+invn_rec9=Item Reparatur
+invn_rec10=Aktuelle Haltbarkeit: {0}/{1}
+invn_rec11Keine gewählten Reparaturkits
+invn_rec12=benutzen
+
+invn_rec13=Item wegwerfen
+invn_rec14=Möchtest Du das wirklich wegwerfen \n{0}?
+invn_rec15=benutzen
+invn_rec16=Item zerlegen
+invn_rec17=Beim Zerlegen bekommst du:
+invn_rec18=und auch mit ein wenig Glück:
+invn_rec19={0} x{1}-{2} Stk
+invn_rec20=- nichts -
+invn_rec21=Demontieren
+invn_rec22=Mögliches Recycling-Ergebnis:
+invn_rec23={0} +{1} Stk\n{2}
+invn_rec24=Recycling-Kosten {0} WP/Stk\nFür alles: {1}/{2} WP
+invn_rec25=Verwerten
+invn_rec26=Lernen
+invn_rec27=Der Gegenstand benötigt eine Reparatur!
+invn_rec28=Beim Reparieren wird der Gegenstand schlechter!
+invn_rec29=Repariere
+invn_rec30=Aktionen
+invn_rec31=Item aufteilen
+invn_rec32=Anzahl:
+invn_rec33=aufteilen
+invn_rec34=Gebietskarte
+
+chat_n1=Beliebte Kanäle
+chat_n2=Neuer Chatkanal
+chat_n3=Neuer Kanalname
+
+
+
+invn_ver1=<color='#000000'>immer</color>
+invn_ver2=<color='#003000'>oft</color>
+invn_ver3=<color='#000030'>manchmal</color>
+invn_ver4=<color='#200030'>selten</color>
+invn_ver5=<color='#302000'>sehr selten</color>
+invn_ver6=<color='#303000'>extrem selten</color>
+
+
+
+
+
+
+
+#Added 16.10.2018
+#------------------------------------
+cht_umsg10=<color='#ff80ff'>Du hast ein/e {0} gefangen</color>
+cht_umsg11=<color='#ff80ff'>{0} gefangen {1}</color>
+
+#Added 13.10.2018
+#------------------------------------
+set_speedi=Geschwindigkeit
+set_deepi=Tiefe
+set_frici=Bremse
+fwgt_uniq_m=Trophäe:
+fwgt_uniq_w=Trophäe:
+
+#Added 28.09.2018
+#------------------------------------
+trn_start=Das Turnier `{0}` hat begonnen
+trn_end=Das Turnier `{0}` ist vorbei
+trn_reg=Vorbereitung auf das Turnier `{0}`
+
+anfish=Fange Fische
+prisefond=Preise:
+pf1m=1. Platz: {0}
+pf2m=2. Platz: {0}
+pf3m=3. Platz: {0}
+pf4_10m=4-10. Platz: {0}
+
+#Added 28.02.2018
+#------------------------------------
+turn_base1=Vor Ort: {0}
+turn_levels=für Level\n{0}-{1}
+turn_tminfo=Dauer: {0} min
+turn_state0=Wartezeit\nnoch {0}
+turn_state1=Startet\nin {0}
+turn_state2=Turnier läuft\nRestzeit: {0}
+turn_state3=Auszeichnung
+turn_state4=Geschlossen
+turn_state100=Geschlossen
+
+
+#Added 06.03.2018
+#------------------------------------
+pck_feed_name=<size=22>VOLGAR PREMIUM</size>\nGAME BUNDLE
+pck_feed_info=<b>Ledger rod Volgar</b>\n<size=10>28 kg, long cast</size>\n\n<b>Power Reel Volgar-Roll</b>\n<size=10>friction 26 kg, 20 strengthening, 20 compensation</size>\n\n<b>Line Volgar-Line</b>\n<size=10>26 kg, 0.28, 150 meters, green</size>\n\n<b>Feeding-rack "Method"-</b>\n<size=10>40 grams +to carp species</size>
+
+#Added 04.03.2018
+#------------------------------------
+hlp1=Mouse wheel - zoom in/out view on the float, switch of first/third person view
+hlp2=Fast switch of first/third person view 
+hlp3=Right mouse button: raise the rod
+hlp4=Left mouse button: reel in the line
+hlp5=Middle mouse button: recast the bait to the previous point, as for the spinning - take the bait back from water
+hlp6=Turn on/off the flashlight
+hlp7=Sit on/get up from the chair (if you have one)
+hlp8=To throw an attractant for the float tackle (if it is equipped in the slot)
+hlp9=Turn left/right
+hlp10=Mouse wheel - zoom in/out view 
+hlp11=Character movement
+hlp12=Camera rotation
+hlp13=Set the movement destination point
+hlp14=Run
+
+#Added 01.03.2018
+#------------------------------------
+line_type0=Type: Monofile
+line_type1=Type: Geflochten
+line_type2=Type: Fluorocarbon 
+line_type3=Type: Fliegenfischen
+
+
+#Added 22.02.2018
+#------------------------------------
+
+rod_inf1=Schnur auf der Spule: {0:0.0} m
+rod_inf2=Optimal für Fische ab {0} kg
+
+#Added 15.02.2018
+#------------------------------------
+wpn_bait_sz=Größe:
+wpn_bait_sz0=winzig
+wpn_bait_sz1=klein
+wpn_bait_sz2=mittel
+wpn_bait_sz3=groß
+wpn_bait_sz4=rießig
+
+wpn_bait_typ_4=Blinker
+wpn_bait_typ_5=Spinner
+wpn_bait_typ_6=Gummifisch
+wpn_bait_typ_7=Wobbler
+
+wpn_bait_vob_0=Topwater
+wpn_bait_vob_1=Über Wasser
+wpn_bait_vob_2=Absinken
+wpn_bait_vob_deep=Tiefe: {0} m
+
+wpn_bait_inf_4=Blinker eignen sich sowohl für die gleichmäßige Führung als auch für die schrittweise Führung
+wpn_bait_inf_5=Spinner funktioniert am besten, während der langsamen einheitlichen Führung
+wpn_bait_inf_6=Gummifische erfordern das Führen von Jigs oder das schrittweise Führen. Fleischfresser greifen meistens in dem Moment an, in dem der Köder den Boden berührt
+wpn_bait_inf_7=Wobbler geben ihr Bestes beim langsamen Führen, aber die beste Option ist das Zucken
+
+prov_sob_1=Kontakt mit der Oberfläche
+prov_sob_2=Grundberührung
+prov_sob_3=Köder absenken
+prov_sob_4=Strömung folgend
+
+prov_prov_0=Gewöhnliche Führung
+prov_prov_1=Einfache Führung
+prov_prov_2=Step-by-Step Führung
+prov_prov_3=Jig Führung
+prov_prov_4=Twitch Führung
+
+
+wpn_cat5=Spule: {0:0.0} m (bei Nutzung von 0.2mm)
+cnt_dstall={0:0.0} m / {1:0.0} m
+
+
+#Added 03.02.2018
+#------------------------------------
+echo_spec0=Relief: Platte
+echo_spec1=Relief: Kante
+echo_spec2=Relief: Felsvorsprung
+echo_spec3=Relief: Vertiefung
+echo_spec4=Relief: Ebenerdig
+
+echo_spec10=Bottom: Schlamm
+echo_spec11=Bottom: Sand
+echo_spec12=Bottom: Stein
+echo_spec13=Bottom: Muscheln
+
+echo_spec20=Flora: Nichts
+echo_spec21=Flora: Gras
+echo_spec22=Flora: Grasrand
+echo_spec23=Flora: Lichtes Gras
+
+echo_spec30=Deckung
+echo_spec31=Hängenbleiben
+echo_spec32=Große Steine
+
+echo_spec40=Ufernähe
+
+echo_spec50=Ruhiges Wasser
+echo_spec51=Schwache Strömung
+echo_spec52=Starke Strömung
+echo_spec53=Sehr starke Strömung
+
+#Added 28.01.2018
+#------------------------------------
+shop_t19=Lockstoffe
+
+#Added 26.01.2018
+#------------------------------------
+wpn_fid1=Futtermenge in Gramm: {0}
+wpn_fid2=Haltbarkeit des Futters in Echtminuten: {0}
+wpn_fid3=Futterkorbtarnung: {0}%
+
+wpn_line3=Dicke (mm): {0}
+wpn_hook3=Selbsthakwahrscheinlichkeit: {0}%
+wpn_wgt=Gewicht: {0}
+
+
+#Added 17.01.2018
+#------------------------------------
+reel_type=Rollentyp: {0}
+reel_type0=Ausgeglichen
+reel_type1=höhere Geschwindigkeit
+reel_type2=höhere Zugkraft
+rait_1=The richest
+rait_2=Leaders by catching\nin amount
+rait_3=Leaders by catching\nin weight
+rait_4=Honorable\ntrophies catchers
+rait_5=Honorable\nmaecenas
+rait_btn1=Einkommen
+rait_btn2=Fang
+rait_btn3=Nach Gewicht
+rait_btn4=Trophäe
+rait_btn5=Maecenas
+
+
+specNY2018=+NORD TWS-III ICE
+happyny=HAPPY\nNEW YEAR!
+
+prk_max=MAXIMUM
+usr_inf_a1=Level: {0}\nDerzeit in: {1}
+usr_inf_a2=KEIN CLUB
+usr_inf_a3=Steamname: {0}
+usr_inf_a4=Accounterstellungsdatum\n{0:d.M.yyyy HH:mm}
+
+usr_inf_c1=Information
+
+
+cht_info=INFORMATION
+
+
+#Added 31.10.2017
+#------------------------------------
+infmsg_exp=+ <color='#ff80ff'>{0}*{1}%={2} (+{3:0.00} to the skills)</color> experience
+
+arw_cap=ARTELS
+arw_myart=MY ARTEL
+arw_crt=CREATE
+arw_appl=REQUEST
+
+arw_h1=LEVEL
+arw_h2=WERTUNG
+arw_h3=STAFF
+arw_h4=ADMISSION
+
+
+#Added 24.10.2017
+#------------------------------------
+gi_usei=Used:
+
+
+#Added 01.10.2017
+#------------------------------------
+gi_inte_1=Loot catching chance (from the initial) {0}%
+gi_inte_2=Receiving experience  {0}%
+gi_inte_3=Skills experience {0}%
+gi_inte_4=Draught power {0}
+gi_inte_5=Max fish weight allowed {0}
+
+pck_match_name=<size=22>MATCH PREMIUM</size>\nGAMING BUNDLE
+pck_match_info=<b>Rod Match-Premium </b>\n<size=10>20 kg, 5.5m depth, long cast</size>\n\n<b>Reel MatchRoll </b>\n<size=10>friction up to 19.8 kg, 20 strengthening, 20 compensation</size>\n\n<b>Line MatchLine</b>\n<size=10>20 kg, 150 meters</size>\n\n<b>Float Matched-</b>\n<size=10>Enlarged, +biting sound indicator</size>
+
+#Added 20.08.2017
+#------------------------------------
+glm_prip=Supplies needed:
+glm_gobtn=REISEN
+fishdrop_3=<color='#ff8000'>Zu großer Fisch</color>
+
+
+#Added 06.06.2017
+sw_txt1=Freier Rollenklang
+sw_txt2=Klang Lautstärke
+sw_txt3=Klang Tonalität
+sw_txt4=Posen Signalklang
+ 
+ 
+#Added 03.06.2017
+#------------------------------------
+wpn_iwgt=Köder Gewicht: {0}
+wpn_ibsize_0=Gr. klein (Haken Nr.0-1)
+wpn_ibsize_1=Gr. mittel (Haken Nr.0-2)
+wpn_ibsize_2=Gr. groß (Haken Nr.1-3)
+wpn_ibsize_3=Gr. riesig (Haken Nr.2-4)
+ 
+wpn_hookf=Für den Fisch von {0} bis {1}
+
+
+#Added 28.04.2017
+#------------------------------------
+wpn_chair1=Energy restore when sitting: {0}/sek
+wpn_chair2=<color='#400000'>Fishing worse when sitting: {0}%</color>
+wpn_chair3=Fishing betterment when sitting: {0}%
+
+
+#Added 26.04.2017
+#------------------------------------
+
+harvestmsg1=No resource
+harvestmsg2=Lack of WP
+harvestmsg3=No skills
+harvestmsg4=Gathering {0} s
+
+userdeadmsg=Player died...
+tankfullmsg1=<color='#ff6000'>Dein Netz ist überfüllt!</color>
+droprodmsg1=<color='#ff0000'>Rute zerbrochen!</color>
+droplinemsg1=<color='#ff0000'>Du hast Schnur verloren: {0}</color>
+droplinemsg2=<color='#ff0000'>Deine Schnur ist gerissen: {0} m</color>
+
+msg_other=TOO CLOSE!
+delcharmsg2=Spieler wirklich entfernen? \n{0}?
+delcharmsg1=Spieler entfernen
+rewgt_msg=Inventar voll - Überprüfen Sie Ihren Mülleimer!
+fishdrop_1=<color='#ff8000'>Der Fisch ist entkommen!</color>
+fishdrop_2=<color='#ff8000'>Der Fisch hat die Schnur leer gezogen</color>
+ust_msg=Tiredness!
+inv_bonus=<color='#002040'>Effekte beim Tragen:</color>
+exitmsg_1=Bist Du sicher, das Du das Spiel verlassen willst?
+exitmsg_2=Zurück zur Charakterauswahl?
+exitmsg_3=Beenden
+
+
+#------------------------------------
+#Added 18.04.2017
+#------------------------------------
+cnt_energ=Energy consumption on casting: {0}
+cnt_line=Schnur:
+cnt_dst={0:0.0} m
+
+#------------------------------------
+#Added 12.04.2017
+#------------------------------------
+post_1=От: {0} Written{1}\nSubject: {2}
+post_2=Delivery service
+post_3=NO LETTERS
+
+post_4=Close
+post_5=Write
+post_6=Delete
+post_7=Delete all
+
+post_8=Read
+post_9=Written: {1}  From: {0}
+
+post_10=From:
+post_11=Subject:
+
+post_12=Answer
+post_13=Take attachments
+
+post_14=<color='#000000'>Letter send cost:</color>
+post_15=Send a letter
+
+post_16=To whom
+post_17=Find
+post_18=Friends
+post_19=Letter subject
+post_20=Money to transfer:
+post_21=<color='#000000'>Letter send cost:</color>
+
+post_22=Money
+post_23=Attachment sum in the letter:
+
+post_msg1=Geschenk erfolgreich zugestellt
+post_msg2=Empfänger nicht gefunden!
+post_msg3=Nicht genug Geld!
+post_msg4=Interner Sendefehler!
+post_msg5=Gegenstand nicht gefunden!
+post_msg6=Sie können kein Geschenk an sich selbst senden!
+post_msg7=The letter contains attachments!\nTo delete the letter take all the attachments first
+
+#------------------------------------
+#Added 07.04.2017
+#------------------------------------
+cht_msg1= {0}+{1}= {2} vom Fischverkauf erhalten
+cht_msg2= {0} vom Fischverkauf erhalten
+cht_msg3=VIP wurde aktiviert
+cht_msg4=Nicht genug Geld
+cht_msg5=Auction: {0} х{1} Stück verkauft
+cht_msg6=<color='#ff0000'>Server Neustart in {0}</color>
+cht_msg7=Rekord: {0} {1}
+cht_msg8=<color='#ffa020'>You have set {0}</color>
+cht_msg9=<color='#ffa020'>Spieler {0} hat den neuen {1}</color>
+
+cht_msg10=Der Gegenstand `{0}` ist abgenutzt
+cht_msg11=Auseinandernehmen abgeschlossen
+cht_msg12=<color='#80ff00'>Rezept erlernt für {0} </color>
+cht_msg13=Sie haben Post
+
+cht_msg14=Es gibt keinen solchen Artikel
+cht_msg15=Zu wenig WP für die Verarbeitung
+cht_msg16=Dieser Artikel kann nicht recycelt werden
+
+cht_msg17=Neue Fraktion ist eröffnet '{0}'
+cht_msg18=Neues Reputationslevel '{0}': {1}
+cht_msg19=Reputationssteigerung: '{0}' on {1}
+cht_msg20=Der Artikel wurde zur Auktion freigegeben
+cht_msg21=Nicht genug Geld für die Auktionsgebühr
+cht_msg22=Sie haben keinen solchen Artikel
+cht_msg23=<color='#6080ff'> für Aufgabe angenommen</color>
+
+cht_msg24=Diese Aufgabe ist nicht verfügbar
+cht_msg25=Ein höheres Reputationslevel wird benötigt
+cht_msg26=Sie können diese Aufgabe nicht annehmen
+cht_msg27=Sie haben bereits eine Aufgabe dieses Typs angenommen
+cht_msg28=Sie können die Aufgabe nicht öfter als einmal pro 40 Minuten annehmen
+cht_msg29={0} die Rute zerbrochen '{1}'
+cht_msg30={0} die Schnur zerrissen '{1}'
+cht_msg31=Nicht genügend Geld!
+cht_msg32=Kein ausreichender Platz im Inventar!
+cht_msg34=Gekauft: {0} {1} {2}x{3} Stk.
+
+cht_msg35=Die Fertigkeit wurde nicht erlernt!
+cht_msg36=Die Fertigkeit hat das maximale Level erreicht.
+cht_msg37=Niedriges Niveau der Grundfertigkeit
+cht_msg38=Fertigkeiterlernt '{0}' {1} level
+cht_msg39=Fertigkeit erhalten '{0}'
+cht_msg40=Das Rezept wurde gespeichert.
+
+
+chan_head=Kanäle
+chan_nam=Kanal
+
+gameban=Der Account wurde gesperrt!\nBis: {0} (Server Zeit)\nWegen: {1}
+gameexist=Ein Spieler mit den gleichen Namen ist bereits im Spiel!
+
+wpn_drop=<color='#ff8000'>Item </color>{0}<color='#ff8000'> verloren!</color>
+myrec=<color='#a040ff'>Persönlicher Rekordfang: {0} (Erfahrung x3)</color>
+settitul=Neuen Titel vergeben:
+newtitul=Einen neuen Titel erhalten:
+
+chnam1=Namensprüfung
+chnam2=Der Name des Charakters kann verwendet werden
+chnam3=Namensprüfungsfehler
+chnam4=Dieser Charaktername wird bereits verwendet,\n oder widerspricht den Regeln!\nZulässige sind russische oder englische Buchstaben und Zahlen, der Name sollte nicht kürzer \nals 3 Zeichen sein und nicht länger als 16 Zeichen
+
+cht_ach1=Eine Urkunde wird eröffnet
+cht_ach2=Weitere Informationen finden Sie im Abschnitt Informationen zu Urkunden
+cht_ach3=Die Urkunde wurde geschlossen:
+
+cht_exp1=+ <color='#ff80ff'>{0}</color> Erfahrung
+
+#------------------------------------
+#Added 06.04.2017
+
+fshop_header=Fischhändler
+fshop_hd1=Fischpreise
+fshop_hd2=Catch selling
+fshop_hd3=Du hast keine Fische zum Verkaufen!
+fshop_hd4=Feilschen
+fshop_msg1=Verkauft {0} {1} Stk Gewicht {2}
+fshop_msg2=<color='#000000'>{0} Stk. Gesamtgewicht {1}</color>\n<color='#000000'>aktueller Preis für 1 kg ist {2}</color>\n\n<color='#002000'>Gesamter Verkaufswert dieser Fischsorte ist</color>\n
+
+fshop_btn1=Preise herausfinden
+fshop_btn2=Diese Fischsorte verkaufen
+
+fshop_ks1=Nach Fang
+fshop_ks2=Nach Name
+fshop_ks3=Nach Durchschnitt
+
+fshop_fcost={0}\nKosten für 1 kg: {1}      Durchschnittspreis für 1 Stück: {2}
+fshop_fcost2={0} {1} Stk\nverkaufen für {2}
+
+shop_bccount= (have x{0})
+shop_bccost=<color='{0}'>Kosten x{1}: </color>{2}
+shop_ycnt=Du hast {0} Stk
+shop_wl=Verkaufe {0} sek
+shop_header=Ausrüstungsgeschäft
+
+shop_t1=Köder
+shop_t2=Kunstköder
+shop_t3=Imitationsköder
+shop_t4=Lockfutter/Lockmittel
+shop_t5=Posenruten
+shop_t6=Spinnruten
+shop_t7=Grundruten
+shop_t8=Rollen
+shop_t9=Schnur
+shop_t10=Haken/Jigköpfe
+shop_t11=VF/Posen/Blei
+shop_t12=Zubehör
+shop_t13=Signale
+shop_t14=Nahrung/Medizin
+shop_t15=Zubereitung
+shop_t16=Sonstiges
+shop_t17=Anleitungen
+shop_t20=Reisen
+shop_t18=Spezielles
+
+shop_t22=Fliegenfischen
+shop_t23=Fliegen
+shop_t24=Boote
+shop_t25=Belohnungen
+
+min_lev=<color='#{0}'>Level {1}</color>
+
+#------------------------------------
+#Added 05.04.2017
+
+wpn_timed=\n\n<color='#402060'>TEMPORARY left: {0} </color>
+wpn_sost=\nСonfiguration:\n
+wpn_master=<color='#104005'>Created by master {0}</color>
+wpn_break=\n<color='#a06000'>BROKEN!</color>\n
+
+wpn_book1=<color='#702000'>Skill study: {0} - already studied +300 skill exp.</color>\n
+wpn_book2=<color='#102000'>Skill study: {0} - not studied</color>\n
+
+wpn_dress1=Protection from radiation: {0}\n
+wpn_dress2=Protection from aggressive environment: {0}\n
+
+wpn_rem1=Repair: +{0} item durability\n
+wpn_rem2=Base durability loss: {0}\n
+wpn_rem3=Minimum repair threshold: {0}\n
+wpn_rem4=For repair:
+
+wpn_rec1=Recipe for creating: {0} x{1} Stk \n
+wpn_rec2=<color='#ff00ff'>Unlimited</color>\n
+wpn_rec3=Usage amount: {0},Stk\n
+wpn_rec4=Bench-tool required: {0}\n
+wpn_rec5=Profession required: <color='{0}'>{1}</color>\n
+
+wpn_eat1=Satisfies hunger: <color='#102000'>{0}</color>\n
+wpn_eat2=Causes hunger: <color='#201000'>{0}</color>\n
+
+wpn_eat3=Slakes thirst: <color='#102000'>{0}</color>\n
+wpn_eat4=Makes thirsty: <color='#201000'>{0}</color>\n
+
+wpn_eat5=Radresistance: <color='#102000'>+{0}</color>\n
+wpn_eat6=Radresistance: <color='#201000'>-{0}</color>\n
+
+wpn_eat7=Stamina: <color='#102000'>+{0}</color>\n
+wpn_eat8=Stamina: <color='#201000'>-{0}</color>\n
+
+wpn_med1=Life recovery: <color='#102000'>{0}</color>\n
+wpn_med2=Life damage: <color='#201000'>{0}</color>\n
+
+wpn_tank1=Maximales Gewicht: {0}
+wpn_tank2=Maximale Anzahl: {0} Stk
+
+wpn_bait1=Attraktivität: {0}%
+wpn_popl1=+Bisssignalalarm
+wpn_hook1=Schärfe: {0} %\n
+wpn_hook2=Größe: {0}
+
+wpn_line1=Traglast: {0} kg\n
+wpn_line2=Länge: {0} m
+
+wpn_cat1=Zugkraft:
+wpn_cat2=Ausgleich:
+wpn_cat3=Ist abwesend
+wpn_cat4=Bremskraft:
+
+#Added 27.03.2017
+#------------------------------------
+pt_pinent=Enter security Pin-code
+pt_pinmem=To remember PIN
+pt_set=To set Pin-code
+pt_seti=Set a digital Pin-code for the additional protection of your account
+pt_seti2=From 4 to 8 digits. Note down or memorize this code. The game can anytime demand this code for approval.
+pt_setok=Security Pin-code has been set up
+
+#Added 10.03.2017
+#------------------------------------
+qd_day=TAGESAUFGABEN
+qd_week=TURNIERE
+usrto_ignor=Spieler {0} wurde zu Deiner Ignorierenliste hinzugefügt
+usrfrom_ignor=Spieler {0} wurde von Deiner Ignorierenliste entfernt
+
+specvalentine=+3 package card
+
+#Added 18.01.2017
+#------------------------------------
+inv_pcs1=({0} Stk)
+inv_pcs2=({0}/{1} Stk)
+inv_nodur=no deterioration
+inv_dur=Durability:
+inv_pers=<color='#001040'>Bound</color>
+inv_wpers=<color='#001040'>Will be bound</color>
+inv_impr=<color='#001040'>Upgradable</color>
+inv_minreq=Minimum requirements:
+inv_useeff=<color='#0080ff'>Effects of usage:</color>
+inv_effectinf=<color='#002010'>{0} on {1}</color>
+inv_post=* mail
+inv_auk=* auction
+inv_inv=Inventory expanding
+inv_icost=Bag expanding cost '{0}'
+inv_money=Money:
+inv_or= OR
+inv_rl=Reals:
+inv_invheader=Inventory
+inv_buymsg=Purchased {0} x{1} pc
+inv_auklotinf=Quantity: {0} \nPrice: {1}\nLot returns: {2:dd/MM HH:mm}
+inv_auklotn=Withdraw
+inv_aukcinf=Minimum price: {0} \nBoard lots with this price: {1}
+inv_auksum=Total purchase sum:
+
+auk_head=Auction
+auk_pbuykey=Buy-out
+auk_pstavka=Stake
+auk_pstinf=Board lot stake from {0} to {1}
+auk_whead=Items auction
+auk_wset=drawing x{0} Stk.
+
+auk_wcnt=Total board lots of this type: {0}
+auk_wmin=Minimum price: {0} for a pc
+auk_wmax=Maximum price: {0} for a pc
+auk_wavg=Starting price: {0} for a pc
+auk_swtcost=Starting price (for all):
+auc_wcstc=Price
+auc_wcswcp=Buy-out price (for all):
+auc_wsbor=Auction fee:
+auc_toauk=To auction
+
+auc_reshdr=Resource auction
+auc_rescst=Sell price (for 1 pc):
+auc_resallcst=Total price for a bundle:
+
+btn_cancel=Abbrechen
+
+#Added 27.12.2016
+#------------------------------------
+get_lut=<color='#80ff00'>Caught: {0}</color>"
+nick_info=Character’s name has to be from 5 to 12 symbols with no spaces and special symbols. Allowed either only Russians or only English letters in character’s name.
+
+
+
+#Added 22.12.2016
+#------------------------------------
+// О персонаже
+gi_um_0=Info
+gi_um_1=Statistik
+gi_um_2=Rekorde
+gi_um_3=Reputation
+gi_um_4=Aktionen
+gi_um_5=Vergünstigungen
+gi_um_6=Titel
+gi_um_7=Beruf
+gi_um_8=Sammlung
+gi_um_9=Aufgaben
+gi_um_10=Standort
+
+gi_um_rec=Gefangen {1}\n{2}
+
+// Окно инфо
+gi_uinf_0=Level: {0}    Zeit online: {1}
+
+gi_uinf_1=Strength: {0}
+gi_uinf_1i=Strength effects on traction  ability and on carried weight
+
+gi_uinf_2=Accuracy: {0}
+gi_uinf_2i=Increases casting accuracy and smoothes fish jerk
+
+gi_uinf_3=Luck: {0}
+gi_uinf_3i=It affects  chance to catch a trophy or loot
+
+gi_uinf_4=Education: {0}
+gi_uinf_4i=It affects amount of experience for level
+
+gi_uinf_5=Gesundheit: {0}/{1}
+gi_uinf_6=Strahlungswiderstand: {0}/{1}
+gi_uinf_7=Ausdauer: {0}/{1}
+gi_uinf_8=Essen: {0}/{1}
+gi_uinf_9=Wasser: {0}/{1}
+
+gi_uinf_10=Workpoints: {0}
+gi_uinf_11=Experience: {0} / {1}
+
+// Окно стат
+gi_fs_itm=Total Gefangen: {0} Stk\nTotal Gewicht {1}\n
+gi_fs_itm2=Persönlicher Rekord {0}
+
+
+//Fraction window
+gi_frac_max=Reached maximum reputation level
+gi_frac_i=Fraction \"{0}\": {1}
+gi_frac_no=NO KNOWN FRACTIONS
+
+// Окно титулов
+gi_tit_ch=To title change:
+gi_tit_chy=Can change
+gi_tit_inf=Chosen title: {0}\nBonuses: {1}
+gi_tit_sel=Chose
+
+// Окно навыков
+gi_um_passperk=Passive perks
+gi_um_lim=Limit: {0}/{1}
+gi_um_lv= lvl {0}
+gi_um_nt= not learned
+gi_um_mx= maximum
+gi_um_nosel=PERK NOT CHOSEN
+
+
+//садки
+gi_sadokfull=<color='#801000'>Setzkescher ist voll! Menge: {0} Stk Total Gewicht: {1}</color>
+gi_sadoknone=<color='#801000'>Kein Setzkescher!</color>
+gi_sadok=<color='#000000'>In: {0} / {1} Stk   Total Gewicht: {2} / {3}</color>
+gi_nlheader1=<color='#000040'>Neue Stufe erreicht {0}</color>
+gi_nlheader2="Neue Stufe: {0}"
+
+//новый уровень
+gi_nl0=Gesundheit +{0}\n
+gi_nl1=Ausdauer +{0}\n
+gi_nl2=Strahlungswiderstand +{0}\n
+gi_nl3=Essen +{0}\n
+gi_nl4=Wasser +{0}\n
+
+//Новое достижение
+gi_nach=Neue Auszeichnung\n{0}
+gi_ach=Auszeichnung
+
+//Холодильник
+gi_fridgiceno=<color='#ff6000'>KEIN PLATZ AUF DEM EIS! Anzahl: {0}/{1}</color>
+gi_fridgice=At ice: {0} / {1} Stk
+gi_fridge=Kühlschrank
+
+//Сообщ. в чат
+gi_cachfish=Fisch gefangen
+gi_letgohe=Freigelassen {0}
+gi_letgoshe=Freigelassen {0}
+gi_cachhe=Gefangen {0}
+gi_cachshe=Gefangen {0}
+
+cht_delfrendmsg=Player deleted from friends
+
+#Added 19.12.2016
+#------------------------------------
+crft_useres=Resources used: {0}/{1}
+crft_wpnpr=<color='#000030'>Source item</color>
+crft_qlt=<color='#003000'> Quality increasing, chance: {0}%</color>"
+frnd_ingame=Your friend {0} came into game
+
+
+#Added 18.12.2016
+#------------------------------------
+stng_no_dress=Don’t show suits (experimental)
+stng_frmrate=Frame frequency
+stng_frm0=Maximum FPS
+stng_frm1=Set limitation to 60 FPS
+stng_frm2=Set limitation to 30 FPS
+
+stng_reflect=Reflektionen im Wasser
+stng_rflct0=Einfaches Wasser
+stng_rflct1=Nur Himmel und Boden reflektieren
+stng_rflct2=Alles Reflektieren
+
+
+#Added 17.12.2016
+#------------------------------------
+cht_private=FLÜSTERN
+cht_ignore=IGNORIEREN
+cht_copy=KOPIEREN
+cht_tofrend=FREUND HINZUFÜGEN
+cht_tofrendno=FREUND LÖSCHEN
+cht_tofrendmsg=Freund wurde hinzugefügt
+cht_ae=Freund wurde bereits hinzugefügt
+cht_maxcnt=Nicht mehr als {0} Freunde!
+
+
+#Added 12.12.2016
+#------------------------------------
+no_steam=STEAM client not found!
+packshop=Package shop
+hlp_packet=Game packages for reals\nfor fast start
+pck_qst=<size=22>FAST START</size>\nGAME PACKAGE
+pck_qdtinfo=<b>The Rod Junior </b>\n<size=10>5 kg, 3.5m depth</size>\n\n<b>The Reel JuniorRoll </b>\n<size=10>Friction  4.8 kg, 10 strengthening, 10 compensation</size>\n\n<b>Fishing Line JuniorLine</b>\n<size=10>5 kg, 150 meters</size>\n\n<b>The Float Balance-B4-</b>\n<size=10>Enlarged, +biting sound indicator</size>\n\n +50 ergs
+pck_prim=All items are personal and will be delivered by in-game mail after purchasing.
+pck_buy=Kaufen
+chat_open=CHAT
+
+#------------------------------------
+specoff=SONDERANGEBOTE
+specwobprise=+Spezial Wobbler VOB-I-ICE\nals Geschenk
+
+#Added 05.12.2016
+#------------------------------------
+bs_cost=Kosten: {0}
+bs_lev=Für Stufe: {0}-{1}
+bs_lowlv=Stufe zu niedrig!
+bs_hilv=Deine Stufe ist zu hoch!
+
+
+bs_nomoney=Nicht genug Geld!
+bs_noprip=Nicht genug Material!
+
+
+wpn_izn=\nDurability:
+wpn_onlym=<color='#{0}'>Male</color>
+wpn_onlyw=<color='#{0}'>Female</color>
+
+wpn_rod1=Traglast: {0}kg\n
+wpn_rod2=Länge: {0}m \n 
+wpn_rod3=Tiefe: {0}m
+wpn_rod4=Wurfgewicht: {0}
+
+wpn_lv=lvl.
+wpn_lvf=Level
+wpn_cmp=Component
+
+
+
+#Added 04.12.2016
+#------------------------------------
+silence=<color='#ff0000'>Moderator mute you. Left {0} min.</color>
+crft_none=NOTHING
+crft_krit=<color='#ffdd40'>glückliches Händchen: {0}</color>
+crft_konstr=Konstruktion
+crft_sbor=Zusammenbau
+crft_ingr=Zutaten:
+crft_cnt=Benötigt {0} Stk im Vorrat {1}
+crft_from=von
+crft_to=bis
+crft_treb=Anforderungen:
+crft_norec=Keine Rezepte
+crft_norec2=KEINE REZEPTE
+crft_unl=Unbegrenzt
+crft_recnt=Rezept Anzahl:
+crft_cost=Arbeitspreis:
+crft_costwp=Arbeitspunkte (WP):
+crft_cnt2={0}/nbenötigt {1} Stk
+crft_use=Im Gebrauch: {0}+{1}={2}
+crft_selwpn=Nehme Gegenstand
+crft_crft=Erstellung
+crft_btn1=Erstellen
+crft_btn2=Alles filetieren
+
+#Added 02.12.2016
+#------------------------------------
+hlp_map=For fishing, open map by using compass icon and choose location.
+hlp_life=Look at your health line! If you die, you lose some experience, all fish and some durability on wearing stuff! You can be cured at the doctor.
+hlp_time=Game time. One game day are two real hours.
+hlp_ropen=Take/remove rod
+hlp_ds=Depth settings
+hlp_3dw=First-person view
+hlp_roll=Pull fish by alternately pressing left and right mouse button (or G-H on keyboard). Do not allow voltage to red line or your tackles will broken! Do not pull the fish on rocks and ground - big chanse to lose it.
+exp_pb=Next lvl experience:
+
+
+#Added 01.12.2016
+#------------------------------------
+chat_info=Info
+chat_loc=Lokal
+
+chatconnect=Kanal verbunden
+qd_prise=Einnahme
+usercntinfo=Online: {0} am Standort: {1}
+wplabel=Arbeitspunkte: 
+
+qd_prise_exp=+{0} exp;  
+qd_prise_rep=+{0} rep; 
+qd_prise_titul=+titul "{0}"  
+
+qd_header=Aufgaben
+qd_get=Annehmen
+qd_cancel=Abbrechen
+qd_refresh=Aktualisieren
+
+qd_tasktime=Neue Aufgabe in: 
+qd_taskcount=Angenommene Aufgaben: {0}/{1}
+qd_anyfish=Fange Fische
+
+qd_cash=Geld
+qd_res=Köder
+qd_rep=Erfahrung
+
+#Added 30.11.2016
+#------------------------------------
+selpersbtn=Level: {0}
+deltext=<color='#800000'>Wird entfernt {0}</color>
+
+
+
+#Added 26.11.2016
+#------------------------------------
+crpers_name=Name
+crpers_all=Alles
+crpers_top=Körper
+crpers_bottom=Beine
+crpers_ground=Hauptfarbe
+crpers_cam=Tarnung
+crpers_intens=Intensität
+crpers_scale=Skala
+crpers_rot=Drehen
+crpers_hue=Ton
+crpers_haircol=Haarfarbe
+crpers_barbudos=Bart
+crpers_much=Schnurrbart
+crpers_confism=Bestätigen
+crpers_cancel=Abbrechen
+
+
+startgame=SPIEL STARTEN
+steamconnect2=I have an existing account
+delacc=Delete account
+delaccconfirm=You really want to delete your account?
+newletter=To send messages, your character must up level 5
+newrega=CONGRATULATIONS!/nYou have successfully signed up for the game!/n/nCreate your character now and go fishing!
+
+
+#Added 20.11.2016
+#------------------------------------
+hellost=Hallo, {0}
+autherror=Fehler beim Login
+oldvermsg=Alte Clientversion/nAktuelle Version:
+steamider=Deine SteamID ist nicht korrekt
+steamno=Steam ist nicht gestartet!
+noemail=Email noch nicht bestätigt!
+steamconnect=Steam verknüpfen.
+steampaninfo=Steam zu verknüpfen gibt die diese Vorteile.
+
+staccok=Glückwunsch. Du hast Deinen Account mit Steam verknüpft. Nun kannst Du Auszeichnungen sammeln, Zahlungen vornehmen und andere Steam Funktionen nutzen.
+staccerr=Error! This Steam account already linked to other account. 
+stacheaderprocess=Binds...
+stacheadererror=<color='#ff2000'>Error binding!</color>
+stacheaderok=Beendet!
+
+togamebtn= SPIEL STARTEN
+selpers=Character auswählen
+delpers=Character löschen
+newpers=Character anlegen
+buykey=Kaufen
+realshop=Store reals
+stshoplabel=Kaufen mit STEAM 
+stshoprubl=Für Rubel kaufen
+stshopsel=Auswahl
+
+viptxt=Der Verkauf von Fischen bringt zusätzlich 25% mehr Geld./nAufgaben können 50% schneller angenommen werden/nErfahrung von Fischen um 50% erhöht/nErfahrung für vollständige Aufgabe + 25%/nVerbesserte Map mit Koordinaten
+vipbuycost=Kaufe 350 <color='#40a0ff'>®</color> für 30 Tage
+vipbuykey=VIP Kaufen
+
+#context menu options
+cntx_improve=Aufrüstungen
+cntx_refine=Umbauen
+cntx_rem=Reparieren
+cntx_razb=Demontieren
+cntx_use=Benutzen
+cntx_teach=Lernen
+cntx_teachexp=+300 Skillpunkte
+cntx_wpnauk=Zur Zubehörauktion
+cntx_resauk=Zur Auktion
+cntx_drop=Freilassen
+cntx_close=Schließen
+
+#Added 09.11.2016
+#------------------------------------
+close=Schließen
+pass=Passwort
+mempass=Meine Daten merken.
+reg=Erstelle Konto.
+serv_off1=Autsch! Der Server antwortet nicht!
+serv_off2=Überprüfen Sie Ihre Verbindung zum Internet oder Serverstatus auf der Spieleseite
+
+settings=Einstellung
+set_view=Realistische Sichtweite
+set_stui=Standart UI position
+set_volamb=Umgebung Lautstärke
+set_volmus=Musik Lautstärke
+set_dist=Sichtweite
+set_graf=Grafik Einstellung
+
+
+#-----
+fwgt_sml_m=Jung(r/s)
+fwgt_sml_w=Junge(r/s)
+fwgt_big_m=
+fwgt_big_w=
+fwgt_trof_m=
+fwgt_trof_w=
+fwgt_uniq_m=Trophäen
+fwgt_uniq_w=Trophäen
+
+time_format1={0} min
+time_format2={0}Std {1} min
+time_format3={0}T {1}Std {2} min
+
+wgt_gr=g
+wgt_kg=kg 
+
+release=Freilassen (J)
+brag=Brag
+getfish=Mitnehmen (Leertaste)
+withquest=Ohne Quest
+altosad=Fische direkt in den Kescher
+sadok=Setzkescher
+csadok=Aktueller Setzkescher
+sadokfull=<color='#ff6000'>SETZKESCHER IST VOLL!</color>
+
+#------------------------------------
+
+error=Error
+achive_text=[F_KLEV]% Zunahme der Intensität dieser Art von Fischen.
+no_move_sadok=You can't move fish tank,/n while there fish!
+
+#quality
+qname_0=schlecht
+qname_1=häufig
+qname_2=gut
+qname_3=selten
+qname_4=einzigartig
+qname_5=legendär
+qname_6=gold
+
+
+# Active objects
+active_obj_1=Post
+active_obj_2=Werkbank
+active_obj_3=Filetiertisch
+active_obj_4=Einfaches Craften
+active_obj_5=Tisch mit Werkzeugen
+active_obj_6=Kühlschrank
+active_obj_7=Werkbank
+
+# Craft
+no_ingridients=Nicht genug Zutaten!
+no_inventory=Kein Platz im Inventar!
+no_money=Nicht genug Geld!
+no_workpoint=Nicht genug Arbeitspunkte!
+no_user_recept=Kein Rezept!
+no_recept=Kein Rezept!
+no_stanok=Falsche Werkbank!
+
+
+
+
+[BAG]
+bag1_name=Angelruten
+bag1_info=Posenrute
+
+bag2_name=Ausrüstung
+bag2_info=Sehnen, Rollen, Posen, Haken
+
+bag3_name=Ausrüstung
+bag3_info=Ausrüstung
+
+bag4_name=Medizin
+bag4_info=Medizin, Nahrung, Getränke
+
+bag5_name=Herstellung
+bag5_info=Zutaten, Komponenten und Rezepte
+
+bag6_name=Signale 
+bag6_info=Kleidung
+
+bag7_name=Köder
+bag7_info=Köder, Lockmittel
+
+bag8_name=Belohnung
+bag8_info=Andere Währungen
+
+bag9_name=Sammlung
+bag9_info=Gesammelte Gegenstände
+
+bag10_name=Sonstiges
+bag10_info=Verschiedene Artikel nicht in der Kategorie enthalten
+
+bag11_name=Spinnköder
+bag11_info=Spinnköder Zubehör
+
+bag12_name=Lockstoffe
+bag12_info=Futtermischungen
+
+bag13_name=Haken
+bag13_info=
+
+bag14_name=Fliegenköder
+bag14_info=
+
+bag52_name=Aufbewahrung
+bag52_info=Platz zum Aufbewahren

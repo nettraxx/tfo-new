@@ -1,0 +1,59 @@
+﻿[MAP_NAMES]
+1_Name=Deutschland: Wasserdamm 
+1_Info=
+
+2_Name=Russland: Fluss Pra
+1_Info=
+
+3_Name=Frankreich: Perruchet Seen
+1_Info=
+
+4_Name=Finnland: Kulgusee
+4_Info=
+
+5_Name=Ukraine: Fluss Domaha
+1_Info=
+
+6_Name=Weißrussland: Dukorasee
+6_Info=
+
+7_Name=Italien: Fluss Po
+7_Info=
+
+8_Name=Polen: Fluss San
+8_Info=
+
+9_Name=Serbien: Fluss Donau
+9_Info=
+
+10_Name=Iran: Kaspisches Meer
+10_Info=
+
+[LOC_NAMES]
+---------------------
+# Брезинер
+0_Name=
+1_Name=Lager
+2_Name=Wasserrosen
+3_Name=Weizenfeld
+4_Name=Stadtstrand
+5_Name=Ruheort
+
+
+
+
+---------------------
+# Мещера
+21_Name=Lager
+22_Name=Pinienwald
+23_Name=Nasswiesen
+24_Name=Sumpf
+
+---------------------
+31_Name=Perruchet
+
+---------------------
+
+51_Name=Angelplatz
+
+# Пруд Перруше  Les étangs de Perruchet

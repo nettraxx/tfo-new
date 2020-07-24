@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<auk_data>
+	<categories>
+		<category id="-90" name="Auktionswaren">
+		<category idlist="1,2,3,4,5" name="Tackles and accessories"/>
+		<category id="32" name="Reparatursätze"/>
+		<category id="34" name="Handbücher"/>
+		<category idlist="17,18,33" name="Aussehen"/>
+		<category idlist="10,11" name="Köder und Lockmittel"/>
+		<category idlist="12" name="Blinker und Twister"/>
+		<category idlist="21,22,23" name="Medikamente, Essen und Trinken"/>
+		<category id="26" name="Teile und Modifikationen"/>
+		<category id="25" name="Komponenten"/>
+		<category id="24" name="Ressourcen"/>
+		<category id="28" name="Rezepte"/>
+		<category id="31" name="Sammlerstücke"/>
+		<category id="0" name="Sonstiges"/>
+		<category id="-100" name="Meine Posten"/>
+	</categories>
+</auk_data>

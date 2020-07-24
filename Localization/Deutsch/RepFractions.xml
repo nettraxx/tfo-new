@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reputaion>
+	<fractions>
+		<fraction id="1" name="Shelter"/>
+		<fraction id="2" name="Hochebene der Riesen"/>
+		<fraction id="3" name="Bar Voronka"/>
+		<fraction id="4" name="Seesiedlung"/>
+		<fraction id="5" name="Smaragd"/>
+		<fraction id="6" name="Dorfbewohner"/>
+		<fraction id="7" name="Hochwasser"/>
+		<fraction id="8" name="Ölmänner"/>
+		<fraction id="1000" name="Militär"/>
+		<fraction id="1001" name="Ärzte-Gilde"/>
+		<fraction id="1002" name="Spinangler Union"/>
+		<fraction id="1003" name="Posenfischer Union"/>
+		<fraction id="1004" name="Grundangler Union"/>
+	</fractions>
+    
+	<levels>
+		<replevels id="1">
+			<level>Gleichgültigkeit</level>
+			<level>Freundlichkeit</level>
+			<level>Respekt</level>
+			<level>Held</level>
+		</replevels>
+    
+		<replevels id="2">
+			<level>Feindlich</level>
+			<level>Neutral</level>
+			<level>Private</level>
+			<level>Schütze</level>
+			<level>Leutnant</level>
+			<level>Kapitän</level>
+			<level>Hauptmann</level>
+		</replevels>
+
+		<replevels id="3">
+			<level>Gleichgültigkeit</level>
+			<level>Helfer</level>
+			<level>Anwärter</level>
+			<level>Neubekehrter</level>
+			<level>Heiler</level>
+		</replevels>
+        
+		<replevels id="4">
+			<level>Gleichgültigkeit</level>
+			<level>Anwärter</level>
+			<level>Anfänger</level>
+			<level>Spezialist</level>
+			<level>Meister</level>
+			<level>Maestro</level>
+		</replevels>
+
+		<replevels id="5">
+			<level>Fremder</level>
+			<level>Bekanntschaft</level>
+			<level>Berühmt</level>
+			<level>Stammgast</level>
+		</replevels>
+	</levels>
+</reputaion>

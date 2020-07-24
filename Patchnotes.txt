@@ -1,0 +1,8 @@
+Patch 1.31.5
+Es wurden zwei neue USens-Picker hinzugefügt, die in jedem Angelladen erhältlich sind
+Akma-Köder für die vertikale Führung von Booten hinzugefügt
+Tintenfisch optimiert für vertikale Führung
+Die Mechanik beim Installieren einer Rute auf einem Rodpod wurde verbessert
+Die Schaltfläche F9 wurde hinzugefügt, um die Benutzeroberfläche auszublenden (um Screenshots zu erstellen).
+Italien - Geländewechsel und Geodaten
+Fehlerbehebung

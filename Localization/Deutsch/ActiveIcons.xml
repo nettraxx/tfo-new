@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<icon_data>
+	<icon id="1" name="Strahlenvergiftung" info="Sie haben eine Strahlenbelastung in Höhe von [X] rad/s erhalten" />
+	<icon id="2" name="Angelverbot" info="Du darfst in dieser Gegend nicht angeln." />
+	<icon id="3" name="Lagerfeuer" info="Du bist in der Nähe des Lagerfeuers." />
+	<icon id="4" name="*Travel" info="Du kannst noch nicht in diese Gegend reisen." />
+	<icon id="5" name="*Abstand" info="Du bist zu nahe an einem anderen Angler." />
+	<icon id="6" name="*Realistisch" info="First-Person Ansicht aktiviert." />
+	<icon id="7" name="Siedlung" info="Du bist innerhalb der Siedlungsgrenze." />
+	<icon id="8" name="Keine Rute" info="Deine Angel ist nicht vollständig!" />
+	<icon id="9" name="Im Wasser" info="Du bist im Wasser, pass auf!" />
+	<icon id="10" name="*Der Rucksack ist überfüllt!" info="Deine Rucksack ist zu voll um dich zu bewegen, prüfe dein Inventar."/>
+	<icon id="11" name="*Der Setzkescher ist überfüllt!" info="Dein Setzkescher ist überfüllt oder nicht vorhanden, du kannst den Fisch nicht behalten." />
+	<icon id="12" name="Köder zu leicht" info="Dein Köder ist zu leicht. Die Wurfweite ist um [X]% reduziert, die Genauigkeit beim Werfen ist um [Y]% reduziert." />
+	<icon id="13" name="Köder zu schwer" info="Dein Köder ist zu schwer. Die Abnutzung deiner Rute ist um [X]% erhöht, die Wurfweite ist um [Y]% erhöht" />
+	<icon id="14" name="*Level up" info="Du kannst jetzt aufsteigen. Bonus-Erfahrung: [X]" />
+	<icon id="15" name="*Neue Briefe" info="Du hast [X] ungelesene Briefe." />
+	<icon id="16" name="Strahlenschutz [X] r/s на [Y]%" info="Senkt die durchdringende Strahlung unter [X] rad/s auf [Y]%" />
+	<icon id="17" name="Strahlenschutz [X]%" info="Verringert den negativen Strahlungseffekt auf [X]% durch Einnahme von Nahrungsmitteln, Getränken oder Medikamenten" />
+	<icon id="18" name="Vegiftung [X]" info="Dein Organismus wird mit [X] Lebenspunkte pro Sekunde vergiftet." />
+	<icon id="19" name="*Regeneration [X]" info="+ [X] Lebenspunkte pro Sekunde" />
+	<icon id="20" name="VIP Modus" info="Gibt folgenden Bonus:
+    
+    * 50% schneller Aufgaben annehmen und Erfahrung beim Fischfang.
+    * 25% mehr Erlös beim Verkauf und Erfahrung bei den Aufgaben.
+    * Verbesserte Map mit Koordinaten." />
+	
+	<icon id="21" name="*Lernen +[X]%" info="+[X]% Erfahrung für gefangene Fische" />
+	<icon id="22" name="Fertigkeiten lernen" info="Das Lernen der Fertigkeit ist im Gange. Du hast[Y]% 10% aller Erfahrungen gesammelt, die Du beim Erlernen von Fertigkeiten gesammelt hast."/>
+	<icon id="23" name="Sättigung" info="Du hast keinen Hunger, die Lebensmitteleffekte werden um [X]% gesenkt und es werden keine zusätzlichen Effekte angewendet." />
+	<icon id="24" name="Vergiftung" info="Du hast kürzlich Arzneimittel eingenommen, die Wirkungen sind um [X]% verringert und es werden keine zusätzlichen Wirkungen angewendet" />
+	<icon id="25" name="Kein Durst" info="Wenn Du keinen Durst hast, werden die Effekte um [X]% verringert und es werden keine zusätzlichen Effekte angewendet" />
+	<icon id="26" name="*Widerstand" info="Erhöht die Strahlenbeständigkeit um [X] und die Beständigkeit gegen aggressive Umwelteinflüsse um [Y]. \ N Fasst die Anzugseigenschaften zusammen" />
+	<icon id="27" name="*Fertigkeiten lernen" info="Erhöht die gesammelten Erfahrungspunkte um [X]%" />
+	<icon id="28" name="*Ausdauerregeneration" info="+ [X] Ausdauer pro Sekunde" />
+	<icon id="29" name="*Sitzen" info="+ [X] Ausdauer pro Sekunde,/n-[Y]% Anglerkraft"/>
+	<icon id="30" name="*Ermüdung" info="Dein Charakter ist müde. Er / sie kann nicht mehr rennen, möchte nicht fischen und Deine Angelstärke ist verringert. / nNehme eine Pause oder einen Energy-Drink"/>
+</icon_data>

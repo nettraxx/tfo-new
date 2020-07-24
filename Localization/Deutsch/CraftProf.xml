@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<craft_data>
+	<categories>
+		<category id="0" name="Allgemeine Rezepte"/>
+		<category id="10" name="Aufgaben"/>
+		<category id="55" name="Lockmittel"/>
+		<category id="60" name="Mechanics"/>
+		<category id="200" name="Essen und Trinken"/>
+		<category id="400" name="Köder"/>
+		<category id="410" name="Spinner und Blinker"/>
+		<category id="500" name="Posenfischen"/>
+		<category id="510" name="Spinnfischen"/>		
+		<category id="515" name="Grundfischen"/>
+		<category id="520" name="Fliegenfischen"/>
+		<category id="1000" name="Material"/>
+		<category id="1030" name="Verbrauchsmaterialien"/>
+	</categories>
+
+</craft_data>

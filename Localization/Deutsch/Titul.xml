@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<titul_data>
+	<p_categories>
+		<category id="1" name="Einfacher Titel"/>
+		<category id="3" name="Erfolge"/>
+		<category id="5" name="Turnier" />
+		<category id="6" name="Gesamt Turniere"/>
+		<category id="7" name="Private Turniere"/>
+		<category id="8" name="Berufe" />
+		<category id="9" name="Ressourcen sammeln"/>
+		<category id="10" name="Produktion"/>
+		<category id="11" name="Einzigartig"/>
+	</p_categories>
+  
+	<tituls>
+		<titul id="0" catid="1" name="Ohne Titel"/>
+		<titul id="100" catid="1" name="Sumpf-Experte" />
+		<titul id="101" catid="1" name="Wald-Experte"/>
+		<titul id="105" catid="9" name="Muscheljäger"/>
+		<titul id="106" catid="9" name="Holzfäller"/>
+		<titul id="107" catid="10" name="Meistermechaniker"/>
+		<titul id="108" catid="11" name="Atomfischer"/>
+		<titul id="109" catid="11" name="Administrator" color="1"/>
+		<titul id="110" catid="11" name="Herr der Karausche"/>
+		<titul id="111" catid="3" name="Rekordhalter"/>
+		<titul id="112" catid="1" name="Schutzheld"/>
+		<titul id="113" catid="3" name="Dreimal geboren"/>
+		<titul id="114" catid="3" name="Eintopfesser"/>
+		<titul id="115" catid="3" name="Wassertrinker"/>
+		<titul id="116" catid="3" name="Storm minnows"/>
+		<titul id="117" catid="3" name="Greenpiece"/>
+		<titul id="118" catid="11" name="Helfer"/>
+		<titul id="119" catid="11" name="Moderator" color="1"/>
+		<titul id="120" catid="3" name="Überlebender"/>
+		<titul id="121" catid="11" name="Pionier"/>
+		<titul id="122" catid="3" name="Vorbildlicher Fischer"/>
+		<titul id="123" catid="3" name="Sturm Elritzen"/>
+		<titul id="124" catid="3" name="Karausche Experte"/>
+		<titul id="125" catid="3" name="Scharfschütze"/>
+		<titul id="126" catid="3" name="Hechtmann"/>
+		<titul id="127" catid="11" name="Spender"/>
+		<titul id="128" catid="3" name="Blaumann"/>
+		<titul id="129" catid="3" name="Eisbrecher"/>
+		<titul id="130" catid="11" name="CBT Mitglied"/>
+		<titul id="131" catid="3" name="Duremar"/>
+		<titul id="132" catid="3" name="Flusskrebsfänger"/>
+		<titul id="133" catid="1" name="Gewohnheiten der Bar"/>
+		<titul id="134" catid="3" name="100grammaster"/>
+		<titul id="135" catid="1" name="Fisher of Shelter"/>
+		<titul id="136" catid="1" name="Riese"/>    
+		<titul id="137" catid="11" name="NY 2017"/>
+		<titul id="138" catid="1" name="Bauer"/>
+		<titul id="139" catid="11" name="NY 2018"/>
+		<titul id="140" catid="3" name="Schwerlader"/>
+		<titul id="141" catid="3" name="Tiefenforscher"/>
+		<titul id="142" catid="3" name="Raritätenexperte"/>
+		<titul id="143" catid="3" name="Zarenfischer"/>
+		<titul id="144" catid="3" name="Spinning Meister"/>
+		<titul id="145" catid="3" name="Zarenfischer II"/>
+		<titul id="146" catid="3" name="Bleaker"/>
+		<titul id="147" catid="3" name="Meister des Döbels"/>
+		<titul id="148" catid="3" name="Auf und über"/>
+		<titul id="149" catid="11" name="NY 2019"/>
+	</tituls>  
+</titul_data>
