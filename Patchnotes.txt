@@ -1,3 +1,12 @@
+Patch 1.31.6
+USens Picker für 7,2 kg
+STK LineStar 2,8 kg Schnur
+Konischer Vorfach für 10,4 kg Fliegenfischen
+USens Line Set (3, 5 und 7 kg)
+Eine Reihe von ultraleichten und leichten USens-Rollen
+Italien: eine neue Art von Fisch hinzugefügt - Blaubarsch
+Einige Fehler behoben
+
 Patch 1.31.5
 Es wurden zwei neue USens-Picker hinzugefügt, die in jedem Angelladen erhältlich sind
 Akma-Köder für die vertikale Führung von Booten hinzugefügt

@@ -455,3 +455,4 @@ type_108=Lachs Rogen
 524_Name=Goldbrasse
 525_Name=Rotbrasse
 526_Name=Dorade Royal
+527_Name=Blaubarsch

@@ -3738,12 +3738,12 @@ Bachforelle, Döbel, Donaulachs, Frosch, Goldforelle, Hasel, Laube, Mairenke, Ro
       <info>Fertige Futterkugeln</info>
     </weapon>
     <weapon id="1634">
-      <name>Vorfach 1.5 kg</name>
+      <name>Vorfach 1,5 kg</name>
       <info>
       </info>
     </weapon>
     <weapon id="1635">
-      <name>Vorfach 2.8 kg</name>
+      <name>Vorfach 2,7 kg</name>
       <info>
       </info>
     </weapon>
@@ -3758,12 +3758,12 @@ Bachforelle, Döbel, Donaulachs, Frosch, Goldforelle, Hasel, Laube, Mairenke, Ro
       </info>
     </weapon>
     <weapon id="1638">
-      <name>Vorfach 9.7 kg</name>
+      <name>Vorfach 9,7 kg</name>
       <info>
       </info>
     </weapon>
     <weapon id="1639">
-      <name>Vorfach 11.4 kg</name>
+      <name>Vorfach 11,4 kg</name>
       <info>
       </info>
     </weapon>
@@ -3773,7 +3773,7 @@ Bachforelle, Döbel, Donaulachs, Frosch, Goldforelle, Hasel, Laube, Mairenke, Ro
       </info>
     </weapon>
     <weapon id="1641">
-      <name>Vorfach 19.2 kg</name>
+      <name>Vorfach 19,2 kg</name>
       <info>
       </info>
     </weapon>
@@ -3783,7 +3783,7 @@ Bachforelle, Döbel, Donaulachs, Frosch, Goldforelle, Hasel, Laube, Mairenke, Ro
       </info>
     </weapon>
     <weapon id="1643">
-      <name>Vorfach 29.1 kg</name>
+      <name>Vorfach 29,1 kg</name>
       <info>
       </info>
     </weapon>
@@ -3821,11 +3821,11 @@ Dicklippige Meeräsche, Europäischer Wolfsbarsch, Felsenbarsch, Goldbrasse, Gro
       </info>
     </weapon>
      <weapon id="1650">
-      <name>NS XG light</name>
-      <info>Schnur für´s Fliegenfischen</info>	
+      <name>NS XG7 Light</name>
+      <info>Schnur für´s Fliegenfischen (Gelb)</info>	
 	</weapon>	
     <weapon id="1651">
-      <name>Vorfach 17.0 kg</name>
+      <name>Vorfach 16,9 kg</name>
       <info>     </info>
 	  </weapon>
     <weapon id="1652">
@@ -4602,15 +4602,15 @@ Döbel, Europäische Äsche, Rapfen, Regenbogenforelle, Saibling, Saimaa-Forelle
       </info>
     </weapon>
     <weapon id="1811">
-      <name>Picker USens SL5</name>
-      <info>Picker-Klasse
+      <name>Picker USens LL5</name>
+      <info>Picker-Klasse Light
 Eine leichte Version des Grundangelns zum präzisen werfen des Leichten Feeder Korbs.
 Nur Rollengröße 2500 und kleiner sind zulässig
 + 30% Erfahrung</info>
     </weapon>
     <weapon id="1812">
       <name>Picker USens UL3</name>
-      <info>Picker-Klasse
+      <info>Picker-Klasse Ultra Light
 Eine leichte Version des Grundangelns zum präzisen werfen des Leichten Feeder Korbs.
 Nur Rollengröße 2500 und kleiner sind zulässig
 + 50% Erfahrung</info>
@@ -4618,6 +4618,57 @@ Nur Rollengröße 2500 und kleiner sind zulässig
     <weapon id="1813">
       <name>Pickers USens</name>
       <info>Picker-Klasse</info>
-    </weapon>	
+    </weapon>
+    <weapon id="1814">
+      <name>Pickers USens ML7</name>
+      <info>Picker-Klasse Medium Light
+Eine leichte Version des Grundangelns zum präzisen werfen des Leichten Feeder Korbs.
+Nur Rollengröße 2500 und kleiner sind zulässig
++ 10% Erfahrung</info>
+    </weapon>
+    <weapon id="1815">
+      <name>STK LineStar 2,8</name>
+      <info></info>
+    </weapon>
+    <weapon id="1816">
+      <name>Fly leader 10,4 kg</name>
+      <info>Konisches Vorfach zum Fliegenfischen</info>
+    </weapon>
+    <weapon id="1817">
+      <name>NS XG11 light</name>
+      <info>Schnur für´s Fliegenfischen (Grün)</info>
+    </weapon>
+    <weapon id="1818">
+      <name>USens Line</name>
+      <info>Geflochtene Schnüre der Usens-Serie dienen zur Ausstattung der gleichnamigen Picker dieser Serie</info>
+    </weapon>
+    <weapon id="1819">
+      <name>USens L-3</name>
+      <info>Geflochtene Schnüre der Usens-Serie dienen zur Ausstattung der gleichnamigen Picker dieser Serie</info>
+    </weapon>
+    <weapon id="1820">
+      <name>USens L-5</name>
+      <info>Geflochtene Schnüre der Usens-Serie dienen zur Ausstattung der gleichnamigen Picker dieser Serie</info>
+    </weapon>
+    <weapon id="1821">
+      <name>USens L-7</name>
+      <info>Geflochtene Schnüre der Usens-Serie dienen zur Ausstattung der gleichnamigen Picker dieser Serie</info>
+    </weapon>
+    <weapon id="1822">
+      <name>USens RSL Series</name>
+      <info>Lightweight professional feeder reel</info>
+    </weapon>
+    <weapon id="1823">
+      <name>USens RSL 3</name>
+      <info>Lightweight professional feeder reel</info>
+    </weapon>
+    <weapon id="1824">
+      <name>USens RSL 5</name>
+      <info>Lightweight professional feeder reel</info>
+    </weapon>
+    <weapon id="1825">
+      <name>USens RSL 7</name>
+      <info>Lightweight professional feeder reel</info>
+    </weapon>		
   </weapons>
 </wpnlang>
