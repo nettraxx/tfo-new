@@ -332,6 +332,7 @@ recsts_btn3=NACH ORT
 recsts_btn4=NACH ANGLER
 recsts_btn5=nach Anzahl
 recsts_btn6=nach Rekorde
+recsts_btn7=NACH BEWERTUNG
 
 setVol_musc=Musik-Lautstärke
 setVol_envr=Umgebungs-Lautstärke

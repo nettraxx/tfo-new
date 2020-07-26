@@ -1,3 +1,11 @@
+Patch 1.31.7
+Fütterungsmischungen bis zu 999 Packungen gestapelt werden.
+Der Lockstoff "Karpfen" wurde aus dem Verkauf genommen. Verbleibende werden weiter funktionieren
+Die Schaltfläche "Nach Bewertung sortieren" wurde zur Statistik der gefangenen Fische hinzugefügt
+Äschenfische haben mehr Wert, geben mehr Erfahrung und sind jetzt Seltener. 
+Verringertes mittleres Gewicht, erhöhtes Trophäengewicht. Komplette Ernährungsumstellung, um der Realität nahe zu kommen.
+Retexturierung von Seezander, Äsche und Maifisch
+
 Patch 1.31.6
 USens Picker für 7,2 kg
 STK LineStar 2,8 kg Schnur
