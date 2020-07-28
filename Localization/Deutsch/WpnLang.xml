@@ -1085,10 +1085,8 @@ Donaulachs, Grashecht, Regenbogenforelle, Saibling, Wolgazander
       </info>
     </weapon>
     <weapon id="1148">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>Grünalgen</name>
+      <info>Wird zum Erstellen von Ködern verwendet</Info>
     </weapon>
     <weapon id="1149">
       <name>
@@ -3719,12 +3717,12 @@ Bachforelle, Döbel, Donaulachs, Frosch, Goldforelle, Hasel, Laube, Mairenke, Ro
       </info>
     </weapon>
     <weapon id="1630">
-      <name>Waggler-8-6</name>
+      <name>Waggler-8-6 C0</name>
       <info>
       </info>
     </weapon>
     <weapon id="1631">
-      <name>Waggler-10-8</name>
+      <name>Waggler-10-8 C0</name>
       <info>
       </info>
     </weapon>
@@ -4669,6 +4667,36 @@ Nur Rollengröße 2500 und kleiner sind zulässig
     <weapon id="1825">
       <name>USens RSL 7</name>
       <info>Leichte professionelle Feeder-Rolle</info>
+    </weapon>	
+    <weapon id="1826">
+      <name>Waggler-8-6 С1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1827">
+      <name>Waggler-8-6 С2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1828">
+      <name>Waggler-8-6 С3</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1829">
+      <name>Waggler-10-8 C1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1830">
+      <name>Waggler-10-8 C2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1831">
+      <name>Waggler-10-8 C3</name>
+      <info>
+      </info>
     </weapon>		
   </weapons>
 </wpnlang>

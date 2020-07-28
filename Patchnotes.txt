@@ -1,3 +1,11 @@
+Patch 1.31.8
+Dem Laden wurden drei neue Farben der Waggler 8-6 und 10-8 hinzugefügt
+Kurbelanimationen wurden aggressiver angepasst
+Russland - fester Lagerfeuerlärmbereich, kleine Details hinzugefügt, Bootslandezone im nördlichen Sumpf hinzugefügt
+Finnland - Eine weitere Insel für die Landung vom Boot aus wurde hinzugefügt
+Italien - Starke Strömung im Meer behoben, Beleuchtung einstellen, Hintergrund einstellen
+Update der Game Engine-Version
+
 Patch 1.31.7
 Fütterungsmischungen bis zu 999 Packungen gestapelt werden.
 Der Lockstoff "Karpfen" wurde aus dem Verkauf genommen. Verbleibende werden weiter funktionieren
