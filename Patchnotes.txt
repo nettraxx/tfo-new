@@ -1,3 +1,11 @@
+Patch 1.32.0
+Hallo Freunde. Ich präsentiere Ihnen einen neuen Ort auf der kaspischen Karte "Rivermouth". Dieser Ort hat fast alle Süßwasserbewohner der ins Kaspische Meer fließenden Flüsse aufgenommen, und das Gebiet hat einen Prototyp des Wolgadeltas (nur viel kleiner).
+Darüber hinaus ist der Standort selbst nicht mehr mattgrau, sondern hat seine Tonalität geändert und Dekorationen hinzugefügt.
+Dem Flussteil wurden folgende Arten hinzugefügt: Wolgazander, Sichling, Güster, Aland und Karausche. Die Anzahl der Fische im Flussabschnitt hat sich sowohl für das Spinnen als auch für das Gewicht und die Schwimmkörper geändert.
+Floats "Balance-B3" in drei Farben wurden dem Verkauf hinzugefügt
+Während des Fischens können Sie Algen fangen, aus denen Sie Köder machen können (Basteltischfenster)
+Die Castingruten steigen jetzt beim "Pilken" von Fischen höher an.
+
 Patch 1.31.8
 Dem Laden wurden drei neue Farben der Waggler 8-6 und 10-8 hinzugefügt
 Kurbelanimationen wurden aggressiver angepasst
