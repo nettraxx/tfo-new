@@ -4,31 +4,31 @@ ptur_otCount=EINE ANGELRUTE
 ptur_otBoat=BOOT ERLAUBT
 
 ptur_ot_00=Beliebig
-ptur_ot_90=Stippangeln
-ptur_ot_100=Bolo oder Matchangeln
-ptur_ot_101=Grundangeln
-ptur_ot_102=Spinnangeln
-ptur_ot_103=Fliegenfischangeln
+ptur_ot_90=Stippe
+ptur_ot_100=Bolo oder Match
+ptur_ot_101=Grund
+ptur_ot_102=Spinn oder Casting
+ptur_ot_103=Fliegenfischen
 
-ptur_otypec=ZAHNRADART
+ptur_otypec=RUTENART
 ptur_time=TURNIERDAUER (MINUTEN)
 ptur_fondt=GEWINNZUORDNUNG
-ptur_stavk=WETTE - TURNIERMARKEN
+ptur_stavk=TURNIERMARKEN
 ptur_ttype=TURNIERTYP
 ptur_fvid=FISCHART
 ptur_pass=PASSWORT
 ptur_namt=TURNIERNAME
 ptur_header=ERSTELLEN SIE EIN PRIVATES TURNIER
  
-pturntype_0=Menge
+pturntype_0=Anzahl
 pturntype_1=Gesamtgewicht
-pturntype_2=Drei Größten
+pturntype_2=Drei Schwersten
 pturntype_3=Maximales Gewicht
 pturntype_4=Differenz
 
 pturnfond_0=Der Gewinner bekommt alles
-pturnfond_1=Teilen Sie den Gewinn unter den ersten drei Teilnehmern auf
-pturnfond_2=Teilen Sie den Gewinn unter den ersten zehn Teilnehmern auf
+pturnfond_1=Die ersten drei Teilnehmern gewinnen
+pturnfond_2=Die ersten zehn Teilnehmern gewinnen
 ---------------------
 act_inf5=RODPOD
 act_inf5e=[E] Entfernen
@@ -1132,9 +1132,9 @@ gi_nach=Neue Auszeichnung\n{0}
 gi_ach=Auszeichnung
 
 //Холодильник
-gi_fridgiceno=<color='#ff6000'>KEIN PLATZ AUF DEM EIS! Anzahl: {0}/{1}</color>
-gi_fridgice=At ice: {0} / {1} Stk
-gi_fridge=Kühlschrank
+gi_fridgiceno=<color='#ff6000'>KEIN PLATZ IM KÜHLFACH! Anzahl: {0}/{1}</color>
+gi_fridgice=Tiefgekühlt: {0} / {1} Stk
+gi_fridge=Kühlfach
 
 //Сообщ. в чат
 gi_cachfish=Fisch gefangen

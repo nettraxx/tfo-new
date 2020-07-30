@@ -4712,6 +4712,26 @@ Nur Rollengröße 2500 und kleiner sind zulässig
       <name>Balance-B3-C3</name>
       <info>
       </info>
+    </weapon>
+    <weapon id="1835">
+      <name>WOB Shad-F1</name>
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling.</info>
+    </weapon>
+    <weapon id="1836">
+      <name>WOB Shad-F2</name>
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling.</info>
+    </weapon>
+    <weapon id="1837">
+      <name>WOB Shad-F3</name>
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling.</info>
+    </weapon>
+    <weapon id="1838">
+      <name>WOB Shad Series</name>
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling.</info>
+    </weapon>
+    <weapon id="1839">
+      <name>WOB Shad-F4</name>
+      <info>Wobbler Class Shad (schwimmend) hat ein ausgeprägtes Spiel und ist perfekt zum Angeln in der Strömung oder zum Trolling.</info>
     </weapon>		
   </weapons>
 </wpnlang>

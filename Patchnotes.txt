@@ -1,3 +1,15 @@
+Patch 1.32.1
+Der Verkauf wurde um vierfarbige Shad-Wobbler erweitert
+Wobblers Shad - eine Klasse von Bulk-Spinnködern, deren Name vom gleichnamigen amerikanischen Fisches der Heringsfamilie stammt. 
+Im Gegensatz zu anderen Köderklassen haben Shad Wobbler einen hohen Körper mit abgeflachten Seiten. 
+In ihrer Form ähneln die Schatten vielen Fischarten, die in den Stauseen Europas leben: Karausche, Rotauge, Barsch und Güster. 
+Wobbler der Shad-Klasse eignen sich perfekt zum Angeln einer Vielzahl von Raubfischen unter verschiedenen Bedingungen. 
+Die Vielseitigkeit von Shads macht sie zu hervorragenden Suchködern.
+Geodaten am Kaspischen Meer wurden behoben und unnötige Barrieren entfernt, die den Durchgang entlang des Strandes behinderten
+Einfrieren von Fischen - Fehler mit doppeltem Fisch behoben, Schaltfläche "Alle verkaufen" hinzugefügt
+Ruten-Sounds (Ziehen, Rollenklang und Schnurgeräusch) wurden in den externen Ordner StreamingAssets/Sound/RodSounds/ verschoben und können geändert werden
+Korrektur anderer kleinerer Fehler
+
 Patch 1.32.0
 Hallo Freunde. Ich präsentiere Ihnen einen neuen Ort auf der kaspischen Karte "Rivermouth". Dieser Ort hat fast alle Süßwasserbewohner der ins Kaspische Meer fließenden Flüsse aufgenommen, und das Gebiet hat einen Prototyp des Wolgadeltas (nur viel kleiner).
 Darüber hinaus ist der Standort selbst nicht mehr mattgrau, sondern hat seine Tonalität geändert und Dekorationen hinzugefügt.
